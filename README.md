@@ -1,2 +1,2 @@
 # My-first-project
-Text_to-Voice-Project
+Đây là dự án chuyển đổi giọng nói từ dạng text sang tiếng Việt.
